@@ -1,0 +1,4 @@
+!屏蔽优酷漫画上的内容
+||wap.ykmh.com/*
+||i.ykmh.com/*
+||js.tingliu.cc/*
