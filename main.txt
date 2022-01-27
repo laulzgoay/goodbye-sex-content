@@ -1,5 +1,6 @@
-! Title: 再见，色情内容！Goodbye！
+! Title: 色情内容屏蔽器
 ! Version: 0.0.1
+! Homepage: https://github.com/linlinzzo/goodbye-sex-content/
 
 !屏蔽优酷漫画上的内容
 ||wap.ykmh.com/*
@@ -13,3 +14,7 @@
 ||konachan.net/*
 ||konachan.com/*
 ||konachan.wjcodes.com/*
+
+!日本漫画阅读第一站？？？你配？
+||xmanhua.com/*
+||image.xmanhua.com/*
