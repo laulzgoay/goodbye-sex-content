@@ -5,3 +5,11 @@
 ||wap.ykmh.com/*
 ||i.ykmh.com/*
 ||js.tingliu.cc/*
+
+!屏蔽七七八八的网站
+||kxdhh.mybaiwan.com/*
+
+!屏蔽Konachan主站和镜像站（第三个的全年龄内容之后弄例外）
+||konachan.net/*
+||konachan.com/*
+||konachan.wjcodes.com/*
