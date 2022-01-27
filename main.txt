@@ -1,3 +1,6 @@
+! Title: 再见，色情内容！Goodbye！
+! Version: 0.0.1
+
 !屏蔽优酷漫画上的内容
 ||wap.ykmh.com/*
 ||i.ykmh.com/*
